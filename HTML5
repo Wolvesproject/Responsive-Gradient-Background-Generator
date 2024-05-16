@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generator Background</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body id="gradiant">
+    <h1>gradiant Generator</h1>
+    <h2>select two colors</h2>
+        <input class="input1" type="color" name="input1" value="#265E91">
+        <input class="input2" type="color" name="input2" value="#161A1E">
+    <h3></h3>
+        <button id="random">Random Colors</button>
+    <h5>wolvesproject® 2024</h5>
+        <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
